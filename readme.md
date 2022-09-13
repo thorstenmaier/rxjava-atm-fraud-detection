@@ -16,3 +16,7 @@ time between the two transactions.
 
 The method `Transactions.getAtmTransactions(...)` is able to generate a continuous
 stream of transactions with random transaction data.
+
+## Use case description
+
+https://www.confluent.io/de-de/blog/atm-fraud-detection-apache-kafka-ksql/
